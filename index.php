@@ -5,7 +5,7 @@ include_once "paginas/includes/header.php";
 
 
 
-//pagina
+//páginas
 
 $paginas = isset($_GET['pg']);
 
